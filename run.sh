@@ -62,17 +62,17 @@ echo "### MENU ###"
 echo
 echo $cy "[1]"$bi" Brute Force pesbuk"
 echo "==================================================="
-echo $cy "[2]"$i" spam telepon (dalam perbaikan)"
+echo $cy "[2]"$i" 40 tool hacking"
 echo "==================================================="
-echo $cy "[3]"$me" projeck sekolah (dalam perbaikan)"
+echo $cy "[3]"$me" Tool Bajingan"
 echo "==================================================="
-echo $cy "[4]"$ku" Termos Alice (Khusus Jones:v)"
+echo $cy "[4]"$ku" 18+ hehehehe"
 echo "==================================================="
-echo $cy "[5]"$pur" Mata mata"
+echo $cy "[5]"$pur" Kumpulan Script html keren"
 echo "==================================================="
-echo $cy "[6]"$pu" Trap Project"
+echo $cy "[6]"$pu" DDOS Attack (Trojans)"
 echo "==================================================="
-echo $cy "[7]"$cy" Sadap Camera (Off)"
+echo $cy "[7]"$cy" Kode unik pesbuk"
 echo "==================================================="
 echo $cy "[8]"$me" keluar"
 echo "==================================================="
@@ -96,49 +96,49 @@ fi
 if [ $pil = 2 ]
 then
 clear
-git clone https://github.com/zlucifer/troll_project
-cd troll_project
-bash troll.sh
+git clone https://github.com/Mr-R225/Mr.Rv1.1
+cd Mr.Rv1.1
+sh Mr.Rv1.1.sh
 fi
 
 if [ $pil = 3 ]
 then
 clear
-git clone https://github.com/zlucifer/skull_project
-cd  skull_project
-bash skull.sh
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6.git
+cd BAJINGANv6
+sh BAJINGAN.sh
 fi
 
 if [ $pil = 4 ]
 then
 clear
-git clone https://github.com/zlucifer/termux_alice
-cd termux_alice
-sh alice.sh
+git clone https://github.com/TumbalGanss/ToolsBkp
+cd ToolsBkp
+sh Tobat.sh
 fi
 
 if [ $pil = 5 ]
 then
 clear
-git clone https://github.com/zlucifer/paladin_project
-cd paladin_project
-sh paladin.sh
+git clone https://github.com/InYourG00D1/Pepescers
+cd Pepescers
+sh MTD.sh
 fi
 
 if [ $pil = 6 ]
 then
 clear
-git clone https://github.com/zlucifer/trap_project
-cd trap_project
-bash trap.sh
+git clone https://github.com/BPCATTACKER/DOS-TOOKITS
+cd DOS-TOOKITS
+sh DoS-TOOKIT.sh
 fi
 
 if [ $pil = 7 ]
 then
 clear
-git clone https://github.com/thelinuxchoice/saycheese
-cd saycheese
-bash saycheese.sh
+git clone https://github.com/InYourG00D1/Unix
+cd Unix
+sh KD-FB.sh
 fi
 
 if [ $pil = 8 ]
@@ -151,5 +151,5 @@ sleep 2
 echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
 sleep 2
 echo $i"WhatsApp :"$i" 089602676xx rahasia gayn:v"
-echo $bi"Facebook :"$i" An brush fon"
+echo $bi"pesbuk :"$i" An brush fon"
 exit
