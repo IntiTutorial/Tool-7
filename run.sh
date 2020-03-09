@@ -42,6 +42,11 @@ sleep 2
 clear
 termux-open-url "https://www.youtube.com/channel/UC_JXAfEHbwKMjEn-FiFkixQ"
 clear
+fi
+clear
+python2 loading28.py
+sleep 2
+clear
 echo "         ${m}[ ${pu}TIME ZONE INDONESIA ${m}]"
 echo "${b}   ╔════════╗${b} ╔═══════🕜═╗${b} ╔═══════🕛═╗"
 echo "${b}   ║${k}JAM:"${m}[${pu}$JAM${m}]${b}║~${b}║${k}MENIT:"${m}[${pu}$MENIT${m}]${b}║${b}~║${k}DETIK:${m}["${pu}$DETIK${m}]${b}║
