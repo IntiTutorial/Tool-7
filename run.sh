@@ -48,12 +48,12 @@ echo "${b}║${k}TANGGAL:"${m}[${pu}$TANGGAL${m}]${b}║${b}~║${k}BULAN:"${m}[
 echo "${b}╚════════════╝${b} ╚══════════╝${b} ╚════════════╝"
 echo "${k}<════════════════════════════════════════>"
 echo
-echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo $i  "AUTHOR   : Codot-ID"
 echo $i  "WA       : 0896026xxx h3h3 rahasia gan:v"
 echo $i  "YOUTUBE  : Mr An brush fon"
 echo $i  "TOOLS    : 7 tool tersakti:v"
-echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
 echo
 echo "### MENU ###"
